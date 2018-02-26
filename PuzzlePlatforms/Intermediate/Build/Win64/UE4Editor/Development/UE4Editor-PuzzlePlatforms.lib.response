@@ -1,0 +1,32 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PuzzlePlatforms.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\MovingPlatform.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PlatformTrigger.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatforms.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsCharacter.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsGameInstance.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsGameMode.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\InGameMenu.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\MainMenu.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\MenuInterface.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\MenuWidget.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\InGameMenu.gen.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\MainMenu.gen.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\MenuInterface.gen.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\MenuWidget.gen.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\MovingPlatform.gen.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PlatformTrigger.gen.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatforms.init.gen.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsCharacter.gen.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsGameInstance.gen.cpp.obj"
+"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsGameMode.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"F:\UE4 Tutorials\SteamMultiplay\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PuzzlePlatforms.lib"
